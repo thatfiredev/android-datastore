@@ -1,2 +1,3 @@
 rootProject.name = "datastore"
 include ':app'
+include ':syncedpreferences'
